@@ -30,7 +30,9 @@ This task highlights the contributions of different countries to the global popu
 <h3>To view the code:</h3>
 Click <a href=https://github.com/Batoolzafar/Prodigy_DS_01/blob/main/DS%20Task%20%231.ipynb>here</a>
 <h3>To view the plots:</h3>
-<a href="https://github.com/Batoolzafar/Prodigy_DS_01/blob/main/Number_of_Countries_by_Continents.jpeg">Number_of_Countries_by_Continents.jpeg</a>
+<a href="https://github.com/Batoolzafar/Prodigy_DS_01/blob/main/Number_of_Countries_by_Continents.jpeg">Numberof Countries by Continent</a>
+<a href = "https://github.com/Batoolzafar/Prodigy_DS_01/blob/main/Contribution_to_population.png">Contribution to Population</a>
+<a>""</a>
 
 
 
