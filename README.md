@@ -26,11 +26,9 @@
 </ul>
 <h3>🔎 Conclusion</h3>
 <p>This task highlights the contributions of different countries to the global population. The visualizations I created were instrumental in deriving insights and disproving prior assumptions.</p>
-<style>
  ul{
       list-style-type: none;
   }
-</style>
 
 
 
