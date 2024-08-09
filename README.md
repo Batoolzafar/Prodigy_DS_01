@@ -29,7 +29,8 @@ It was found that the countries were China and India.
 This task highlights the contributions of different countries to the global population. The visualizations I created were instrumental in deriving insights and disproving prior assumptions.
 <h3>To view the code:</h3>
 Click <a href=https://github.com/Batoolzafar/Prodigy_DS_01/blob/main/DS%20Task%20%231.ipynb>here</a>
-
+<h3>To view the plots:</h3>
+<a href="https://github.com/Batoolzafar/Prodigy_DS_01/blob/main/Number_of_Countries_by_Continents.jpeg">Number_of_Countries_by_Continents.jpeg</a>
 
 
 
