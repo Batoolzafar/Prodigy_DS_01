@@ -19,9 +19,9 @@ I created the box and whiskers plot and got two outliers/countries in Asia contr
 <h4>Result 3</h4>
 It was found that the countries were China and India.
 <h3>🔎 Use of Python Libraries For Data Visualization</h3>
-<h4>📉 Matplotlib: </h4>      
+<h4>📊 Matplotlib: </h4>      
 <p>    To create plots.</p>       
-<h4>📏 Plotly: </h4>
+<h4>📊 Plotly: </h4>
 <p>    To create bar chart for Continents by Number of Countries and box whiskers plot to visualize the outliers.</p>       
 <h4>📊 Seaborn: </h4>
 <p>    To create bar chart for wide ranging columns without the need to calculate their mean separately.</p>      
@@ -29,11 +29,11 @@ It was found that the countries were China and India.
 This task highlights the contributions of different countries to the global population. The visualizations I created were instrumental in deriving insights and disproving prior assumptions.
 <h3>To view the code:</h3>
 Click <a href=https://github.com/Batoolzafar/Prodigy_DS_01/blob/main/DS%20Task%20%231.ipynb>here</a>
-<h3>To view the plots:</h3>
+<h3>To view the plots 📈:</h3>
 <ul>
-  <li><a href="https://github.com/Batoolzafar/Prodigy_DS_01/blob/main/Number_of_Countries_by_Continents.jpeg">Number of Countries by Continent</a></li>
-  <li><a href = "https://github.com/Batoolzafar/Prodigy_DS_01/blob/main/Contribution_to_population.png">Contribution to Population</a></li>
-  <li><a href = "https://github.com/Batoolzafar/Prodigy_DS_01/blob/main/Error_bars.png">Visualizing Outliers</a></li>
+  <li><a href="https://github.com/Batoolzafar/Prodigy_DS_01/blob/main/Number_of_Countries_by_Continents.jpeg">Number of Countries by Continent 🧮</a></li>
+  <li><a href = "https://github.com/Batoolzafar/Prodigy_DS_01/blob/main/Contribution_to_population.png">Contribution to Population 📊</a></li>
+  <li><a href = "https://github.com/Batoolzafar/Prodigy_DS_01/blob/main/Error_bars.png">Visualizing Outliers 🚩</a></li>
 </ul>
 
 
