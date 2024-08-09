@@ -20,11 +20,11 @@ I created the box and whiskers plot and got two outliers/countries in Asia contr
 It was found that the countries were China and India.
 <h3>🔎 Use of Python Libraries For Data Visualization</h3>
 <h5>📊 Matplotlib: </h5>      
-       To create plots.
+<p>    To create plots.</p>       
 <h5>📊 Plotly: </h5>
-       To create bar chart for Continents by Number of Countries and box whiskers plot to visualize the outliers.
+<p>    To create bar chart for Continents by Number of Countries and box whiskers plot to visualize the outliers.</p>       
 <h5>📊 Seaborn: </h5>
-       To create bar chart for wide ranging columns without the need to calculate their mean separately.
+<p>    To create bar chart for wide ranging columns without the need to calculate their mean separately.</p>      
 <h3>🔎 Conclusion</h3>
 This task highlights the contributions of different countries to the global population. The visualizations I created were instrumental in deriving insights and disproving prior assumptions.
 
