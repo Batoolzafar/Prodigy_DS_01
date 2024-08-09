@@ -1,4 +1,4 @@
-<h1>"Prodigy Data Science Internship Task 01"</h1> 
+<h1>🚀 Prodigy Data Science Internship Task 01</h1> 
 <h2>Visualizing the Distribution of Categorical Variable in the Dataset</h2>
 <h3>About the Dataset</h3>
 <p>The <a href = "https://www.kaggle.com/datasets/iamsouravbanerjee/world-population-dataset">World Population dataset</a> used for this task is taken from Kaggle.</p>
@@ -20,12 +20,17 @@
 <p>It was found that the countries were China and India.</p>
 <h3>🔎 Use of Python Libraries For Data Visualization</h3>
 <ul>
- <li><h5>Matplotlib: </h5><p>To create plots.</p></li>
- <li><h5>Plotly: </h5><p>To create bar chart for Continents by Number of Countries and box whiskers plot to visualize the outliers.</p></li>
- <li><h5>Seaborn: </h5><p>To create bar chart for wide ranging columns without the need to calculate their mean separately.</p></li>
+ <li><h5>📊 Matplotlib: </h5><p>To create plots.</p></li>
+ <li><h5>📊 Plotly: </h5><p>To create bar chart for Continents by Number of Countries and box whiskers plot to visualize the outliers.</p></li>
+ <li><h5>📊 Seaborn: </h5><p>To create bar chart for wide ranging columns without the need to calculate their mean separately.</p></li>
 </ul>
 <h3>🔎 Conclusion</h3>
 <p>This task highlights the contributions of different countries to the global population. The visualizations I created were instrumental in deriving insights and disproving prior assumptions.</p>
+<style>
+ ul{
+      list-style-type: none;
+  }
+</style>
 
 
 
