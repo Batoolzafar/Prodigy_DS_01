@@ -19,9 +19,9 @@ I created the box and whiskers plot and got two outliers/countries in Asia contr
 <h4>Result 3</h4>
 It was found that the countries were China and India.
 <h3>🔎 Use of Python Libraries For Data Visualization</h3>
-<h4>📊 Matplotlib: </h4>      
+<h4>📉 Matplotlib: </h4>      
 <p>    To create plots.</p>       
-<h4>📊 Plotly: </h4>
+<h4>📏 Plotly: </h4>
 <p>    To create bar chart for Continents by Number of Countries and box whiskers plot to visualize the outliers.</p>       
 <h4>📊 Seaborn: </h4>
 <p>    To create bar chart for wide ranging columns without the need to calculate their mean separately.</p>      
