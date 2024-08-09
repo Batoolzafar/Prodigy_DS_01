@@ -11,9 +11,9 @@
 <h5>Result 1</h5>
 <p>I found that Africa is the continent with most countries.</p>
 <h5>Strategy 2</h5>
-<p>To detrmine the population of each continent, I created a bar chart to determine the global population by the continents</p>
+<p>To determine the population, I created a bar chart of the global population by the continents.</p>
 <h5>Result 2</h5>
-<p>Contrary to my assumption, Asia ranked first in terms of contribution in world population. But the bar chart showed confidence intervals around the mean values. This made me curious to analyze the error bars in the same plot. </p>
+<p>Contrary to my assumption, Asia ranked first in terms of contribution to world population but the bar chart showed confidence intervals around mean values. This made me curious to analyze the error bars for the same plot. </p>
 <h5>Strategy 3</h5>
 <p>I created the box and whiskers plot and got two outliers/countries in Asia contributing the most in global population. To find these outliers I analyzed the Asian countries.</p>
 <h5>Result 3</h5>
@@ -25,7 +25,7 @@
  <li><h5>Seaborn: </h5><p>To create bar chart for wide ranging columns without the need to calculate their mean separately.</p></li>
 </ul>
 <h3>🔎 Conclusion</h3>
-This task highlights the contributions of different countries to the global population. The visualizations I created were instrumental in deriving insights and disproving prior assumptions.
+<p>This task highlights the contributions of different countries to the global population. The visualizations I created were instrumental in deriving insights and disproving prior assumptions.</p>
 
 
 
