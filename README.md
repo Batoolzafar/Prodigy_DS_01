@@ -4,7 +4,7 @@
 <p>The <a href = "https://www.kaggle.com/datasets/iamsouravbanerjee/world-population-dataset">World Population dataset</a> used for this task is taken from Kaggle.</p>
 <h3>🔎 Objective</h3>
 <p>Based on the task, my goal was to visualize the contributions of various countries in the global population.</p>
-<h3>🔎 Assumptions</h3>
+<h3>🔎 Procedure</h3>
 <p>Initially, I hypothesized that the continents with most countries would contribute the most in the global population.</p>
 <h5>Strategy 1</h5>
 <p>Accordingly, I created a bar chart to visualize the number of countries by continents.</p>
