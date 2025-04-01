@@ -1,4 +1,4 @@
-<h1>🚀 Prodigy Data Science Internship Task 01</h1> 
+<h1>🚀 Prodigy Data Science Internship Task</h1> 
 <h2>Visualizing the Distribution of Categorical Variable in the Dataset</h2>
 <h3>About the Dataset</h3>
 The <a href = "https://www.kaggle.com/datasets/iamsouravbanerjee/world-population-dataset">World Population dataset</a> used for this task is taken from Kaggle.
